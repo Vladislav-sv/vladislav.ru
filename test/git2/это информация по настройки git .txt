@@ -1,0 +1,12 @@
+как подключить гид к своему проекту
+
+Windows PowerShell
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Попробуйте новую кроссплатформенную оболочку PowerShell (https://aka.ms/pscore6)
+
+PS C:\Users\SportCross\Desktop\прогрмарование\пробники\test> git init
+Initialized empty Git repository in C:/Users/SportCross/Desktop/прогрмарование/пробники/test/.git/
+PS C:\Users\SportCross\Desktop\прогрмарование\пробники\test> git config --local user.name "Vlad"
+PS C:\Users\SportCross\Desktop\прогрмарование\пробники\test> git config --local user.emil example@gmail.com
+PS C:\Users\SportCross\Desktop\прогрмарование\пробники\test> 
